@@ -13,6 +13,7 @@
 		0F44B1A12B692F6F001FB04F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F44B19F2B692F6F001FB04F /* Main.storyboard */; };
 		0F44B1A32B692F70001FB04F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F44B1A22B692F70001FB04F /* Assets.xcassets */; };
 		0F44B1A62B692F70001FB04F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F44B1A42B692F70001FB04F /* LaunchScreen.storyboard */; };
+		0F44B1B02B6931FC001FB04F /* thisisnew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F44B1AF2B6931FC001FB04F /* thisisnew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0F44B1A22B692F70001FB04F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F44B1A52B692F70001FB04F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F44B1A72B692F70001FB04F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F44B1AF2B6931FC001FB04F /* thisisnew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thisisnew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				0F44B1992B692F6F001FB04F /* AppDelegate.swift */,
+				0F44B1AF2B6931FC001FB04F /* thisisnew.swift */,
 				0F44B19B2B692F6F001FB04F /* SceneDelegate.swift */,
 				0F44B19D2B692F6F001FB04F /* ViewController.swift */,
 				0F44B19F2B692F6F001FB04F /* Main.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F44B1B02B6931FC001FB04F /* thisisnew.swift in Sources */,
 				0F44B19E2B692F6F001FB04F /* ViewController.swift in Sources */,
 				0F44B19A2B692F6F001FB04F /* AppDelegate.swift in Sources */,
 				0F44B19C2B692F6F001FB04F /* SceneDelegate.swift in Sources */,
